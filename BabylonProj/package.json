@@ -14,7 +14,9 @@
     "collision03build": "vite build collision03",
     "collision03preview": "vite preview collision03 --host",
     "Guibuild": "vite build Gui",
-    "Guipreview": "vite preview Gui --host"
+    "Guipreview": "vite preview Gui --host",
+    "Element5build": "vite build Element5",
+    "Element5preview": "vite preview Element5 --host"
 
   },
   "devDependencies": {

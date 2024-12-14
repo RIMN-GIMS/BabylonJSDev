@@ -3,7 +3,7 @@
 Just setting up
 
 ## Bit more
- * Hello *
+ * Hello 
 
  **Hello**
 
